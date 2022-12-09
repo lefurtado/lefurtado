@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
-<h3 align="center">A student developer from Brazil</h3>
+<h3 align="center">A front-end developer from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript** and **ReactJS**
+- 🌱 I’m currently working with **JavaScript** and **ReactJS**
 
 - 📫 How to reach me **le_furtado@outlook.com.br**
 
