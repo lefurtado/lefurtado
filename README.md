@@ -45,7 +45,7 @@ I'm a passionate **Full Stack Developer** from Brazil, specialized in building r
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lefurtado&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lefurtado&theme=tokyonight&hide_border=true)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=lefurtado&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -53,7 +53,7 @@ I'm a passionate **Full Stack Developer** from Brazil, specialized in building r
 
 <div align="center">
   
-  ![trophy](https://github-profile-trophy.vercel.app/?username=lefurtado&theme=tokyonight&no-frame=true&row=1&column=6)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=lefurtado&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
@@ -76,7 +76,7 @@ Here are some of my favorite projects:
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/lefurtado/count.svg)
+  ![](https://komarev.com/ghpvc/?username=lefurtado&color=blueviolet&style=for-the-badge)
   
 </div>
 
