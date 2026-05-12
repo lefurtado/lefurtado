@@ -54,28 +54,10 @@ Full Stack & Mobile Developer building real products — web and mobile, from ar
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=lefurtado&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
-## 📌 Pinned Projects
-
-Here are some of my favorite projects:
-
-- 🍌 **[Bananeira Garden](https://github.com/lefurtado/bananeira-garden)** - TypeScript project
-- 🎮 **[Jogo da Memória](https://github.com/lefurtado/jogo-da-memoria)** - Memory game in JavaScript
-- 💼 **[Portfolio](https://github.com/lefurtado/portfolio)** - My personal portfolio
-- 🚀 **[Rachi Next](https://github.com/lefurtado/rachi-next)** - Next.js application
-
 ## 🌐 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lefurtado.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/le-furtado/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lefurtado)
 
 ## 📈 Profile Views
 
