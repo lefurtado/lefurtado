@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** from Brazil, specialized in building robust and scalable applications across web and mobile platforms. I love transforming complex problems into elegant, efficient solutions.
+Full Stack & Mobile Developer building real products — web and mobile, from architecture to deploy.
 
-- 🔭 Currently working on full-stack projects with **.NET** and **React/Next.js**
-- 🌱 Exploring **Flutter** for cross-platform mobile development
-- 💡 Always eager to learn and implement new technologies
-- 📍 Based in Santo André, São Paulo, Brazil
+- 🏗️ Maintaining an educational management system used by Brazilian municipalities @ **R3+ TopTech** — .NET · React · PostgreSQL
+- 📱 Co-founder & Mobile Lead @ **PayPass** — Flutter fintech app with Open Finance integration, live on Play Store
+- 🐾 Building a SaaS for pet grooming businesses (multi-tenant · Supabase · Flutter)
+- 🌍 Based in São Paulo, Brazil | Open to remote opportunities
 
 ## 🛠️ Tech Stack
 
@@ -36,6 +36,11 @@ I'm a passionate **Full Stack Developer** from Brazil, specialized in building r
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Cloud & DevOps
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## 📊 GitHub Stats
 
